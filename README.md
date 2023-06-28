@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PARULDHANKHAR
 - 👀 I’m interested in CODING
-- 🌱 I’m currently learning c and c++
+- 🌱 I’m currently learning c,html,java,css,c++
 - 💞️ I’m looking to collaborate with you
 - 📫 How to reach me ...
 
